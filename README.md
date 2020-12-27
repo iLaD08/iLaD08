@@ -9,14 +9,4 @@
   ### ⚡ GitHub Stats:
 
   <img align="left" display="block" src="https://github-readme-stats.vercel.app/api?username=iLaD08" />
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-
 ---
