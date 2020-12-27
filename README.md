@@ -4,8 +4,12 @@
 
 ## I'm a Front-end developer
 
+<!-- PROJECTS-information:START -->
+
 - 😃 Also known as iLaD
 - 💻 I love building websites and contribute on open source. 
+
+<!-- information:END -->
  
   ### ⚡ GitHub Stats:
 
