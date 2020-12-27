@@ -1,15 +1,9 @@
 
-
-### Hi, I am ImadEddine Lakhdar 👋
-
-## I'm a Front-end developer
-
-<!-- PROJECTS-information:START -->
+## YO! I am ImadEddine Lakhdar 👋, I'm a Front-end developer
 
 - 😃 Also known as iLaD
 - 💻 I love building websites and contribute on open source. 
-
-<!-- information:END -->
+---
  
   ### ⚡ GitHub Stats:
 
