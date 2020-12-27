@@ -1,5 +1,5 @@
 
-## YO! i'm ImadEddine Lakhdar 👋 and I'm a Front-end developer
+## YO!
 
 - 👋 I'm ImadEddine Lakhdar
 - 😃 Also known as iLaD
