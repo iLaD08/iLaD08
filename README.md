@@ -9,4 +9,4 @@
   ### ⚡ GitHub Stats:
 
   <img align="left" display="block" src="https://github-readme-stats.vercel.app/api?username=iLaD08&theme=dark" />
-  <img align="left" display="block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLaD08&layout=compact&theme=dark" />
+  <img align="center" display="block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLaD08&layout=compact&theme=dark" />
