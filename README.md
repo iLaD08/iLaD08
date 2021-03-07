@@ -10,5 +10,5 @@
 
   <img align="left" display="block" src="https://github-readme-stats.vercel.app/api?username=iLaD08&theme=dark" />
   
-    ### ⚛️ Most Used Languages:
+   ### ⚛️ Most Used Languages:
   <img align="left" display="block" display="block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLaD08&layout=compact&theme=dark" />
