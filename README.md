@@ -21,9 +21,6 @@
 - [Protip](https://github.com/IMAD200)
 
 ---
-
-### ⚡ GitHub Stats
-
   <img align="center" display="block" src="https://github-readme-stats.vercel.app/api?username=iLaD08&theme=dark" />
-
+  
 ---
