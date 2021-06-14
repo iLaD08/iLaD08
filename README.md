@@ -10,7 +10,7 @@
 
 - Survive!
 - Complete all tasks of [MemeShare](https://github.com/MemeShare-org).
-- Reach 450 commits on [Github](https://github.com/).
+- Reach 500 commits on [Github](https://github.com/).
 
 ---
 
@@ -21,6 +21,7 @@
 - [Protip](https://github.com/IMAD200)
 
 ---
+
   <img align="center" display="block" src="https://github-readme-stats.vercel.app/api?username=iLaD08&theme=dark" />
   
 ---
