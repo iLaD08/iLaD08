@@ -10,7 +10,7 @@
 
 - Survive!
 - Complete all tasks of [MemeShare](https://github.com/MemeShare-org).
-- Reach 550 commits on [Github](https://github.com/).
+- Reach 600 commits on [Github](https://github.com/).
 
 ---
 
