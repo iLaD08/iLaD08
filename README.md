@@ -22,6 +22,6 @@
 
 ---
 
-  <img align="center" display="block" src="https://github-readme-stats.vercel.app/api?username=iLaD08&theme=dark" />
+  [📈My stats](https://github-readme-stats.vercel.app/api?username=iLaD08&theme=dark)
   
 ---
