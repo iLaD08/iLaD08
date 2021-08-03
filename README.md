@@ -22,6 +22,5 @@
 
 ---
 
-  [📈My stats](https://github-readme-stats.vercel.app/api?username=iLaD08&theme=dark)
+  [📈Github Statistics](https://github-readme-stats.vercel.app/api?username=iLaD08&theme=dark)
   
----
