@@ -1,7 +1,8 @@
 ## Hello!
 
-- 👋 I'm iLaD
-- 💻 a Front-end developer that love building websites and contribute on open source.
+- 👋 I'm ImadEddine Lakhdar
+- 👨‍ Also known as iLaD
+- 💻 I'm a Front-end developer that love building websites and contribute on open source.
 
 ---
 
@@ -9,7 +10,8 @@
 
 - Survive!
 - Complete all tasks of [MemeShare](https://github.com/MemeShare-org).
-- Reach 600 commits on [Github](https://github.com/).
+- Reach 650 [commits](https://github-readme-stats.vercel.app/api?username=iLaD08&theme=dark)
+   on [Github](https://github.com/).
 
 ---
 
@@ -20,6 +22,3 @@
 - [Protip](https://github.com/IMAD200)
 
 ---
-
-  [📈Github Statistics](https://github-readme-stats.vercel.app/api?username=iLaD08&theme=dark)
-  
