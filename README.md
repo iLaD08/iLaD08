@@ -22,3 +22,5 @@
 - [Protip](https://github.com/IMAD200)
 
 ---
+
+<a href="https://app.daily.dev/ilad_08"><img src="https://api.daily.dev/devcards/cbb54ff9c91c4dcda64ad96283095d0b.png?r=lrj" width="400" alt="iLaD's Dev Card"/></a>
