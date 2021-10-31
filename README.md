@@ -1,9 +1,4 @@
 <table>
-<style>
-table, td, th {
-   border: none!important;
-}
-</style>
   <tr>
     <td>
  <h1>Hello!</h1>
