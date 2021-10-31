@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
- <h1>Hello!</h1>
+ <h2>Hello!</h1>
 
 - 👋 I'm ImadEddine Lakhdar
 - 👨‍ Also known as iLaD
