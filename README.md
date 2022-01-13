@@ -12,8 +12,7 @@
 ### 📌 Goals
 
 - Survive!
-- Complete all tasks of [MemeShare](https://github.com/MemeShare-org).
-- Reach 700 [commits](https://github-readme-stats.vercel.app/api?username=iLaD08&theme=dark)
+- Reach 1000 [commits](https://github-readme-stats.vercel.app/api?username=iLaD08&theme=dark)
    on [Github](https://github.com/).
 
 ---
