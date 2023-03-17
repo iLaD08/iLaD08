@@ -5,15 +5,7 @@
 ### Hello!
 - 👋 I'm ImadEddine Lakhdar
 - 👨‍ Also known as iLaD
-- 💻 I'm a Front-end developer that love building websites and contribute on open source.
-
----
-
-### 📌 Goals
-
-- Survive!
-- Reach 1000 [commits](https://github-readme-stats.vercel.app/api?username=iLaD08&theme=dark)
-   on [Github](https://github.com/).
+- 💻 I'm a Mern-stack developer that love building websites and contributing on open source.
 
 ---
 
